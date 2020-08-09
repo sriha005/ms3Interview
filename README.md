@@ -4,6 +4,7 @@ The purpose of this repo is to show an application that takes a csv file (ms3Int
 taking the records with:
 
 -the right number of columns 
+
 -having all columns filled with values 
 
 and inserting them into a SQLite database. Records which fail the above criteria are sent to another csv file (ms3Interview-bad).
