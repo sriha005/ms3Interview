@@ -1,7 +1,8 @@
 # ms3Interview
 1)
 The purpose of this repo is to show an application that takes a csv file (ms3Interview) of records and filters it,
-taking the records with 
+taking the records with:
+
 -the right number of columns 
 -having all columns filled with values 
 
