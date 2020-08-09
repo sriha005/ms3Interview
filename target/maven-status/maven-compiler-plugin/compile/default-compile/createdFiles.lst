@@ -1,0 +1,5 @@
+com\person\Main.class
+com\person\impl\repository\PersonRepository.class
+com\person\reading\Reader.class
+com\person\impl\entity\PersonEntity.class
+com\person\sqlite\SQLDialect.class

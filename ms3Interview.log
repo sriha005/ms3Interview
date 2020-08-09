@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-09T06:33:04.823963Z</date>
+  <millis>1596954784823</millis>
+  <nanos>963000</nanos>
+  <sequence>4</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records received: 5998</message>
+</record>
+<record>
+  <date>2020-08-09T06:33:04.839964Z</date>
+  <millis>1596954784839</millis>
+  <nanos>964000</nanos>
+  <sequence>5</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records successful: 4863</message>
+</record>
+<record>
+  <date>2020-08-09T06:33:04.843964200Z</date>
+  <millis>1596954784843</millis>
+  <nanos>964200</nanos>
+  <sequence>6</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records failed: 1135</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-09T06:42:58.206106900Z</date>
+  <millis>1596955378206</millis>
+  <nanos>106900</nanos>
+  <sequence>4</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records received: 6001</message>
+</record>
+<record>
+  <date>2020-08-09T06:42:58.223107800Z</date>
+  <millis>1596955378223</millis>
+  <nanos>107800</nanos>
+  <sequence>5</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records successful: 4866</message>
+</record>
+<record>
+  <date>2020-08-09T06:42:58.229108200Z</date>
+  <millis>1596955378229</millis>
+  <nanos>108200</nanos>
+  <sequence>6</sequence>
+  <logger>com.person.reading.Reader</logger>
+  <level>INFO</level>
+  <class>com.person.reading.Reader</class>
+  <method>read</method>
+  <thread>1</thread>
+  <message>Number of Records failed: 1135</message>
+</record>
+</log>
